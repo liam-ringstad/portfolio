@@ -19,9 +19,9 @@ const projects = [
   },
   {
     title: "Digital Optimus",
-    subtitle: "Multi-Agent AI Simulation & Optimization Platform",
-    description: "Cloud-based platform for designing, testing, and iterating on planetary-scale energy systems or spacecraft using Factory.ai droids. Solo founder prompts the droids in natural language to build a full-stack web app with physics-accurate simulation engine, real-time optimization, and CAD/3D export — all handled by multi-agent swarms.",
-    tech: ["React/Next.js", "Python/FastAPI", "numpy/scipy", "LangGraph-style agents", "Vercel/AWS"],
+    subtitle: "Personal Macrohard & Autonomous Operations",
+    description: "A one-person SaaS platform that empowers any solo founder or team to deploy persistent, autonomous \"Digital Human\" agents. These agents take over arbitrary software—web apps, desktop software, or physical robots—and run entire business operations 24/7 with near-zero human intervention. Each AI \"employee\" watches the screen, moves the mouse, types, clicks, navigates dynamic UIs, reads data, makes decisions, and executes real work exactly like a skilled human would.",
+    tech: ["React/Next.js", "Python/FastAPI", "Agentic Workflows", "Computer Vision", "Vercel/AWS"],
     links: null,
     gradient: "from-indigo-900/40 to-blue-900/40"
   }

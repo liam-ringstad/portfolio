@@ -25,7 +25,7 @@ export function Hero() {
               Liam Ringstad
             </h1>
             <p className="text-xl md:text-2xl text-primary font-medium mt-4 tracking-wide">
-              Engineering Builder | Ontology-Driven Platforms & Agentic Systems
+              Software Engineer & Technical Product Owner | Ontology-Driven Platforms & Agentic Systems
             </p>
           </motion.div>
 
